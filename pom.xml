@@ -37,7 +37,7 @@
       <password>Sai12345</password>
       <applicationName>deploy-jenkins</applicationName>
       <environment>Sandbox</environment>
-      <region>us-east-1</region>
+      <region>us-west-2</region>
       <workers>1</workers>
       <workerType>MICRO</workerType>
       <properties>
